@@ -1,0 +1,76 @@
+.headerPrint {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 24px !important;
+}
+
+.tnw {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 12px !important;
+}
+
+.row-margin-rincian-head {
+    width: auto !important;
+    margin-left: 5rem !important;
+    margin-right: 5rem !important;
+}
+
+.row-margin-rincian-foot {
+    width: auto !important;
+    margin-left: 5rem !important;
+    margin-right: 5rem !important;
+}
+
+.size-pegawai {
+    width: fit-content;
+}
+
+/* .no_plat {
+    width: 100% !important;
+} */
+
+table.table-bordered > thead > tr > th{
+    border: 1px solid black !important;
+    /* border-collapse: collapse; */
+}
+
+table.table-bordered > tbody > tr > td{
+    border: 1px solid black !important;
+    /* border-collapse: collapse; */
+}
+
+/* table.table-bordered > tfoot > tr > td{
+    border: 1px solid black !important;
+    border-collapse: collapse;
+} */
+
+table.table-bordered {
+    border: 1px solid black !important;
+    border-collapse: collapse !important;
+    border-width: 0 !important;
+    width: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 12px !important;
+    white-space: nowrap !important;
+}
+
+hr.s9 {
+    height:6px !important;
+    border-top:2px solid black !important;
+    border-bottom:2px solid black !important;
+}
+
+/* .custom-file-button input[type="file"] {
+  margin-left: -2px !important;
+}
+.custom-file-button input[type="file"]::-webkit-file-upload-button {
+  display: none;
+}
+.custom-file-button input[type="file"]::file-selector-button {
+  display: none;
+}
+.custom-file-button:hover label {
+  background-color: #dde0e3;
+  cursor: pointer;
+} */
